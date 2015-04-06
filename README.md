@@ -1,2 +1,5 @@
 # hello-world
-Test Repository for learning Git
+==========================
+
+My Name is Derek
+I have a passion for solving problems and mountain biking.
